@@ -1,6 +1,6 @@
-# Developed By : Rama E.K. Lekshmi
-# Register Number : 212222240082
-# Date: 
+# Developed By : Abhishek kannan M
+# Register Number : 212224040007
+# Date: 14/5/25
 # Ex.No:04   FIT ARMA MODEL FOR TIME SERIES
 
 
